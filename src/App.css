@@ -2,32 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  background-color: #333333;  
-}
-
-.App {
+  background-color: #333333;
   text-align: center;
   color: #3ab4ec;
-}
-
-.Header {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, .8);
-  margin-bottom: 20px;
-  padding: 10px;
-}
-
-.logo {
-  width: 30px;
-  height: 30px;
-}
-
-.Card {
-  list-style: none;
-  border-radius: 25px;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, .8), inset 5px 0 10px cornflowerblue;
-  margin: 20px 30px;
-  padding: 20px;
 }

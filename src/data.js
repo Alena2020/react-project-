@@ -17,7 +17,7 @@ export const cards = [
   },
   {
     title: 'Card 5',
-    description: 'Dreams come true.',
+    description: 'Make your Dreams come true.',
   }
 ]
 

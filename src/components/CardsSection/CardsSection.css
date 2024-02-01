@@ -1,0 +1,7 @@
+.Card {
+  list-style: none;
+  border-radius: 25px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .8), inset 5px 0 10px cornflowerblue;
+  margin: 20px 30px;
+  padding: 20px;
+}
