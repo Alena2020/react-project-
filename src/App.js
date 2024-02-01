@@ -35,6 +35,7 @@ function App() {
           <Button onClick={() => handleClick('Priscilla')}>The Witcher 3: Wild Hunt – The Wolven Storm (Priscilla's Song)</Button>
           <Button onClick={() => handleClick('frog')}>Crazy Frog - Axel F</Button>
           <Button onClick={() => handleClick('life')}>"It's My Life" - Bon Jovi </Button>
+          <Button onClick={() => handleClick('wings')}>Fly Away On The Wings Of The Wind</Button>
           <p>{tabs[content]}</p>
         </section>      
       </main>      
